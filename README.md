@@ -24,6 +24,11 @@ This solution demonstrates the practical application of deep learning in precisi
 
 ## Results
 ->Achieved 95.7% of validation accuracy
+![Accuracy Graph](images/accuracy graph.png)
+![Confusion Matrix](images/confusion matrices-mobilenetv2.png)
+
+## Project Report
+[View Full Report](RiceLeaf_Improved.pptx)
 
 ## How to run
 ->Clone the repo
